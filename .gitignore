@@ -1,4 +1,11 @@
+# Outputs and intermediates
 *.d
 *.o
 js/riscvemu*.js
 js/*.wasm
+/temu
+/splitimg
+/build_filelist
+
+# Editor swaps
+*.swp
