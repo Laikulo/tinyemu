@@ -1,2 +1,4 @@
 *.d
 *.o
+js/riscvemu*.js
+js/*.wasm
