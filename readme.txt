@@ -179,6 +179,8 @@ emscripten. A complete precompiled and preconfigured demo is available
 in the jslinux-yyyy-mm-dd.tar.gz archive (read the readme.txt file
 inside the archive).
 
+This requires emscrypten no later than 1.38.48
+
 4.5) x86 emulator
 
 A small x86 emulator is included. It is not really an emulator because
